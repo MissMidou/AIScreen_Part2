@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('strdividersdk-v1.0-release.aar'))

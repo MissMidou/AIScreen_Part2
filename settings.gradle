@@ -1,0 +1,1 @@
+include ':app', ':nnpredict_with_card_2.7_release', ':strdividersdk-v1.0-release'
